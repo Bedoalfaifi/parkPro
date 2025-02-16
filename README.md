@@ -8,9 +8,7 @@
 <body>
   <h1>Privacy Policy for Parking Reservation App</h1>
   
-  <p>Effective Date: [Insert Date]</p>
-
-  <p>We at [Your Company Name] respect your privacy and are committed to protecting it through this Privacy Policy. This policy describes how we collect, use, and protect your personal information when you use our Parking Reservation App.</p>
+  <p>We at Park Pro respect your privacy and are committed to protecting it through this Privacy Policy. This policy describes how we collect, use, and protect your personal information when you use our Parking Reservation App.</p>
 
   <h2>1. Information We Collect</h2>
   <p>We may collect the following information when you use the app:</p>
@@ -46,7 +44,7 @@
   <p>We may update this policy from time to time. We will notify you of significant changes through the app or other means.</p>
 
   <h2>7. Contact Us</h2>
-  <p>If you have any questions or concerns about this Privacy Policy, please contact us at [Your Contact Email].</p>
+  <p>If you have any questions or concerns about this Privacy Policy, please contact us at bedo.dev2018@gmail.com.</p>
   
 </body>
 </html>
