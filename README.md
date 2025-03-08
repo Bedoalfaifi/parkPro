@@ -1,50 +1,50 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="ar">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Privacy Policy</title>
+  <title>سياسة الخصوصية</title>
 </head>
 <body>
-  <h1>Privacy Policy for Parking Reservation App</h1>
+  <h1> سياسة الخصوصية لتطبيق يمك</h1>
   
-  <p>We at Park Pro respect your privacy and are committed to protecting it through this Privacy Policy. This policy describes how we collect, use, and protect your personal information when you use our Parking Reservation App.</p>
+  <p>نحن في <strong>يمك</strong> نحترم خصوصيتك وملتزمون بحمايتها من خلال هذه السياسة. توضح هذه السياسة كيفية جمع واستخدام وحماية معلوماتك الشخصية عند استخدامك لتطبيقنا الخاص بتوصيل الطلبات.</p>
 
-  <h2>1. Information We Collect</h2>
-  <p>We may collect the following information when you use the app:</p>
+  <h2>1. المعلومات التي نقوم بجمعها</h2>
+  <p>عند استخدام التطبيق، قد نقوم بجمع المعلومات التالية:</p>
   <ul>
-    <li>Personal information such as your name, email address, and phone number.</li>
-    <li>Payment details for booking reservations (processed securely).</li>
-    <li>Location information for finding and reserving parking spots.</li>
-    <li>Device information for app optimization and performance improvement.</li>
+    <li>المعلومات الشخصية مثل الاسم، البريد الإلكتروني، ورقم الهاتف.</li>
+    <li>تفاصيل الدفع لإتمام عمليات الطلب (تتم معالجتها بشكل آمن).</li>
+    <li>معلومات الموقع الجغرافي لتحديد عنوان التوصيل بدقة.</li>
+    <li>بيانات الجهاز لتحسين أداء التطبيق وتجربة المستخدم.</li>
   </ul>
 
-  <h2>2. How We Use Your Information</h2>
-  <p>We use the collected information to:</p>
+  <h2>2. كيفية استخدام معلوماتك</h2>
+  <p>نستخدم المعلومات التي نجمعها من أجل:</p>
   <ul>
-    <li>Process and confirm parking reservations.</li>
-    <li>Provide customer support and improve our services.</li>
-    <li>Send notifications and updates related to your bookings.</li>
+    <li>معالجة الطلبات وتأكيدها.</li>
+    <li>تقديم دعم العملاء وتحسين خدماتنا.</li>
+    <li>إرسال إشعارات وتحديثات متعلقة بالطلبات.</li>
   </ul>
 
-  <h2>3. Sharing Your Information</h2>
-  <p>We do not share your personal information with third parties except:</p>
+  <h2>3. مشاركة المعلومات</h2>
+  <p>نحن لا نشارك معلوماتك الشخصية مع أطراف خارجية إلا في الحالات التالية:</p>
   <ul>
-    <li>With service providers who assist in providing our services (e.g., payment processors).</li>
-    <li>To comply with legal obligations or protect our rights.</li>
+    <li>مع مزودي الخدمات الذين يساعدوننا في تقديم خدماتنا (مثل شركات الدفع وشركات التوصيل).</li>
+    <li>للامتثال للالتزامات القانونية أو لحماية حقوقنا ومصالحنا.</li>
   </ul>
 
-  <h2>4. Security</h2>
-  <p>We implement reasonable security measures to protect your information from unauthorized access, use, or disclosure.</p>
+  <h2>4. الأمان</h2>
+  <p>نطبق إجراءات أمنية معقولة لحماية معلوماتك من الوصول غير المصرح به أو الاستخدام أو الإفصاح.</p>
 
-  <h2>5. Your Rights</h2>
-  <p>You have the right to access, update, or delete your personal information. You can contact us at [Your Contact Email] to exercise these rights.</p>
+  <h2>5. حقوقك</h2>
+  <p>يحق لك الوصول إلى معلوماتك الشخصية أو تحديثها أو حذفها. يمكنك التواصل معنا عبر <strong>[بريدك الإلكتروني]</strong> لممارسة هذه الحقوق.</p>
 
-  <h2>6. Changes to This Policy</h2>
-  <p>We may update this policy from time to time. We will notify you of significant changes through the app or other means.</p>
+  <h2>6. التعديلات على السياسة</h2>
+  <p>قد نقوم بتحديث هذه السياسة من وقت لآخر، وسنخطرك بالتغييرات المهمة عبر التطبيق أو وسائل أخرى.</p>
 
-  <h2>7. Contact Us</h2>
-  <p>If you have any questions or concerns about this Privacy Policy, please contact us at bedo.dev2018@gmail.com.</p>
+  <h2>7. الاتصال بنا</h2>
+  <p>إذا كان لديك أي استفسارات أو مخاوف بشأن سياسة الخصوصية، يرجى التواصل معنا عبر <strong>bedo.dev2018@gmail.com</strong>.</p>
   
 </body>
 </html>
